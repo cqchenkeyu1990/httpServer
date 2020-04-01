@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/heima2/BlockingQueueTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/heima2/CacheDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/heima2/CollectionModifyExceptionTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/heima2/SemaphoreTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/queue/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/read/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/Atomic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/CountdownLatchTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/CyclicBarrierTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/SaleTicket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/SemaphoreTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/TestABCIteator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/syn/myticket.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
