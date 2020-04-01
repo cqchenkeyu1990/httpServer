@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a19c654f-e96f-403b-bdcc-19b07c5b7d5f" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/httpServer.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest$1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest$2.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/META-INF/httpServer.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/MyBeanPostProcesser.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/Seller.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/com/luban/server/mySingleton.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueCommunication$1.class" afterDir="false" />
@@ -137,7 +127,6 @@
       <change afterPath="$PROJECT_DIR$/src/maipiao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/queue/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/read/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/MyBeanPostProcesser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/syn/Atomic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/syn/CountdownLatchTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/syn/CyclicBarrierTest.java" afterDir="false" />
@@ -145,6 +134,7 @@
       <change afterPath="$PROJECT_DIR$/src/syn/SemaphoreTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/syn/TestABCIteator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/syn/myticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -188,29 +178,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/heima2/ThreadLocalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="418">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spring/MyBeanPostProcesser.java">
+        <entry file="file://$PROJECT_DIR$/httpServer.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="190">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#1747#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/maipiao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="778">
+              <caret line="43" column="5" selection-start-line="4" selection-start-column="21" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -262,7 +278,6 @@
         <option value="$PROJECT_DIR$/src/heima2/CallableAndFuture.java" />
         <option value="$PROJECT_DIR$/src/heima2/CollectionModifyExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/heima2/CountdownLatchTest.java" />
-        <option value="$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java" />
         <option value="$PROJECT_DIR$/src/heima2/ExchangerTest.java" />
         <option value="$PROJECT_DIR$/src/heima2/ReadWriteLockTest.java" />
         <option value="$PROJECT_DIR$/src/syn/Window.java" />
@@ -283,6 +298,7 @@
         <option value="$PROJECT_DIR$/src/heima2/ThreadLocalTest.java" />
         <option value="$PROJECT_DIR$/src/spring/aaa.java" />
         <option value="$PROJECT_DIR$/src/spring/MyBeanPostProcesser.java" />
+        <option value="$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java" />
       </list>
     </option>
   </component>
@@ -294,8 +310,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="125" />
+    <option name="x" value="271" />
+    <option name="y" value="104" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -315,13 +331,30 @@
             <path>
               <item name="httpServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="httpServer" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="httpServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="httpServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="heima2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="read" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,6 +366,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -472,12 +506,20 @@
       <workItem from="1583588272904" duration="3695000" />
       <workItem from="1583933787789" duration="1835000" />
       <workItem from="1585640844431" duration="526000" />
-      <workItem from="1585704579823" duration="1161000" />
+      <workItem from="1585704579823" duration="3515000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1585705768499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585705768499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40226000" />
+    <option name="totallyTimeSpent" value="42580000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,7 +532,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="125" width="1400" height="1000" extended-state="0" />
+    <frame x="381" y="31" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756888" visible="true" weight="0.22761194" />
       <window_info id="Structure" order="1" sideWeight="0.5024311" side_tool="true" weight="0.20042644" />
@@ -548,14 +591,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/httpServer/com/luban/server/countDownLatch01.class" />
-    <entry file="file://$PROJECT_DIR$/src/heima2/ConditionCommunication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luban/server/MyTomcat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -621,13 +656,6 @@
             <element signature="e#9899#9900#0" expanded="true" />
             <element signature="e#9936#9937#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -736,13 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maipiao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="5" selection-start-line="4" selection-start-column="21" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/syn/Atomic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -840,13 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/ThreadLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3819">
@@ -867,20 +881,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maipiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="43" column="5" selection-start-line="4" selection-start-column="21" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/spring/MyBeanPostProcesser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="95">
+          <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/heima2/ThreadLocalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        <state relative-caret-position="418">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpServer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
