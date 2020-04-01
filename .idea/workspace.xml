@@ -1,140 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a19c654f-e96f-403b-bdcc-19b07c5b7d5f" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/httpServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/META-INF/httpServer.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/Seller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/com/luban/server/mySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueCommunication$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueCommunication$Business.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueCommunication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/BlockingQueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/Business.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CacheDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CallableAndFuture$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CallableAndFuture$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CallableAndFuture.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CollectionModifyExceptionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ConditionCommunication$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ConditionCommunication$Business.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ConditionCommunication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CyclicBarrierTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/CyclicBarrierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ExchangerTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ExchangerTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ExchangerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/LockTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/LockTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/LockTest$Outputer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/LockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MultiThreadShareData$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MultiThreadShareData$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MultiThreadShareData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MyRunnable1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MyRunnable2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/MyThreadScopeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/Queue3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ReadWriteLockTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ReadWriteLockTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ReadWriteLockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/SemaphoreTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/SemaphoreTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ShareData1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadLocalTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadLocalTest$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadLocalTest$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadLocalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadPoolTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadPoolTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadPoolTest$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadPoolTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadScopeShareData$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadScopeShareData$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadScopeShareData$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreadScopeShareData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreeConditionCommunication$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreeConditionCommunication$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreeConditionCommunication$Business.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/ThreeConditionCommunication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThread$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThread$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadCommunication$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadCommunication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadSynchronized$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadSynchronized$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadSynchronized$Outputer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalThreadSynchronized.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalTimerTest$1MyTimerTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/TraditionalTimerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/heima2/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/maipiao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/queue/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/queue/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/queue/TestDo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/read/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/read/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/Atomic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/AtomicDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/CountdownLatchTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/CountdownLatchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/CyclicBarrierTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/CyclicBarrierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/SaleTicket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/Seller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/SemaphoreTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/SemaphoreTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/TestABCIteator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/TestABCIteator$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/TestABCIteator$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/TestABCIteator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/myticket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/showLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/syn/train.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/httpServer/window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luban/server/MyTomcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luban/server/mySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/CacheDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/CallableAndFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/CollectionModifyExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ConditionCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ExchangerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/MultiThreadShareData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ReadWriteLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/SemaphoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ThreadScopeShareData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/ThreeConditionCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/TraditionalThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/TraditionalThreadCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/TraditionalThreadSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/TraditionalTimerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heima2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maipiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/read/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/Atomic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/CountdownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/SaleTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/SemaphoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/TestABCIteator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syn/myticket.java" afterDir="false" />
+    <list default="true" id="a19c654f-e96f-403b-bdcc-19b07c5b7d5f" name="Default Changelist" comment="你大爷">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,103 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/syn/SemaphoreTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-              <folding>
-                <element signature="e#1045#1046#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/syn/TestABCIteator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/heima2/ThreadLocalTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpServer.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/httpServer/BlockingQueueTest.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#1747#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java">
+        <entry file="file://$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlockingQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/maipiao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="778">
-              <caret line="43" column="5" selection-start-line="4" selection-start-column="21" selection-end-line="43" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadLocal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3819">
-              <caret line="232" column="25" selection-start-line="232" selection-start-column="25" selection-end-line="232" selection-end-column="25" />
-              <folding>
-                <element signature="e#7765#7766#0" expanded="true" />
-                <element signature="e#7802#7803#0" expanded="true" />
-                <element signature="e#8068#8069#0" expanded="true" />
-                <element signature="e#8137#8138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2698">
-              <caret line="181" column="38" selection-start-line="181" selection-start-column="38" selection-end-line="181" selection-end-column="38" />
+            <state relative-caret-position="361">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -299,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/spring/aaa.java" />
         <option value="$PROJECT_DIR$/src/spring/MyBeanPostProcesser.java" />
         <option value="$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java" />
       </list>
     </option>
   </component>
@@ -310,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
-    <option name="y" value="104" />
+    <option name="x" value="267" />
+    <option name="y" value="24" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -506,7 +284,7 @@
       <workItem from="1583588272904" duration="3695000" />
       <workItem from="1583933787789" duration="1835000" />
       <workItem from="1585640844431" duration="526000" />
-      <workItem from="1585704579823" duration="3515000" />
+      <workItem from="1585704579823" duration="4865000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1585705768499</created>
@@ -515,11 +293,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585705768499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="你大爷">
+      <created>1585708338438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585708338438</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42580000" />
+    <option name="totallyTimeSpent" value="43930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,8 +317,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="381" y="31" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="267" y="24" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756888" visible="true" weight="0.22761194" />
       <window_info id="Structure" order="1" sideWeight="0.5024311" side_tool="true" weight="0.20042644" />
@@ -572,7 +356,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="你大爷" />
+    <option name="LAST_COMMIT_MESSAGE" value="你大爷" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -591,19 +376,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/luban/server/MyTomcat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/httpServer/heima2/CollectionModifyExceptionTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/httpServer/heima2/Business.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -673,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/ExchangerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/syn/CountdownLatchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -690,13 +455,6 @@
     <entry file="file://$PROJECT_DIR$/src/heima2/ReadWriteLockTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/MultiThreadShareData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/heima2/TraditionalThreadCommunication.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -704,13 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/LockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -739,13 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="29" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -928,10 +672,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/CacheDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/heima2/CyclicBarrierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        <state relative-caret-position="570">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/ExchangerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/MultiThreadShareData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heima2/BlockingQueueCommunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
