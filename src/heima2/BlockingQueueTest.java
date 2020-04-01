@@ -10,6 +10,7 @@ public class BlockingQueueTest {
 				public void run(){
 					while(true){
 						try {
+							System.out.println("99999999999");
 							Thread.sleep((long)(Math.random()*1000));
 							System.out.println(Thread.currentThread().getName() + "准备放数据!");
 							queue.put(1);
